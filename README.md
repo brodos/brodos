@@ -1,20 +1,22 @@
-### 👋 Hey visitor
+### 👋 Hey visitor,
 
-My name is Lucian. I'm a fullstack web developer commited to Laravel/VueJS/TailwindCSS stack. 
+My name is **Lucian**. I'm a fullstack web developer committed to _Laravel, VueJS, and TailwindCSS_ stack.
 
-I've been working as a PHP developer since 2011, and made the switch to fullstack 4 years ago, using the before mentioned stack. Went fully remote since 2014.
+I've been working as a PHP developer since 2011, and made the switch to fullstack 4 years ago, using the before-mentioned stack. Went fully remote since 2014.
 
-I've been very close to the Laravel community and been keeping up with the latest development trends, as well as working with most of the Laravel first-party packages, like Nova, Spark, Jetstream, Fortify, Breeze, Cashier, Horizon, Passport etc.
-
-<hr>
-
-In the last couple years I've specialized in working with SaaS businesses to bring their ideas to life, building MVPs and getting their webapps to market. 
-
-I will handle everything from a development perspective, like writing code, database architecture, deployment, to setting up CI/CD pipelines. Only thing I need is a design and a good understanding of the problem the webapp is trying to solve.
+I've been very close to the Laravel community and have been keeping up with the latest development trends, as well as working with most of the Laravel first-party packages, like Nova, Spark, Jetstream, Fortify, Breeze, Cashier, Horizon, Passport, etc.
 
 <hr>
 
-**[Schedule an appointment ➡](https://calendly.com/brodos)**
+In the last couple of years, I've specialized in working with SaaS businesses to bring their ideas to life, building MVPs, and getting their webapps to market.
+
+I can handle everything from a development perspective, like writing code, database design, setting up infrastucture, deployment, setting up CI/CD pipelines, etc. 
+
+The only thing I need is a design and a good understanding of the problem the webapp is trying to solve.
+
+<hr>
+
+**[Schedule an appointment ➡](https://calendly.com/brodos/meetings)**
 
 <hr>
 
