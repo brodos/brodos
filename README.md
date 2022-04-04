@@ -1,4 +1,4 @@
-### 👋 Hey visitor,
+#### Hey there 👋,
 
 My name is **Lucian**. I'm a fullstack web developer committed to _Laravel, VueJS, and TailwindCSS_ stack.
 
