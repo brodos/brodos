@@ -1,6 +1,6 @@
 #### Hey there 👋,
 
-My name is **Lucian**. I'm a fullstack web developer committed to _Laravel, VueJS, and TailwindCSS_ stack.
+My name is **Lucian**. I'm a fullstack web developer specialized in _Laravel, VueJS, and TailwindCSS_ stack.
 
 I've been working as a PHP developer since 2011, and made the switch to fullstack 4 years ago, using the before-mentioned stack. Went fully remote since 2014.
 
