@@ -14,9 +14,11 @@ I can handle everything from a development perspective, like writing code, datab
 
 The only thing I need is a design and a good understanding of the problem the webapp is trying to solve.
 
+<!--
 <hr>
 
 **[Schedule an appointment ➡](https://calendly.com/brodos/meetings)**
+ -->
 
 <hr>
 
