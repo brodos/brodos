@@ -26,7 +26,7 @@ The only thing I need is a design and a good understanding of the problem the we
 <p align="left">
   <a href="https://laravel.com/" target="_blank">
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
         alt="laravel"
         width="40"
         height="40"
